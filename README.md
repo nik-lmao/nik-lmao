@@ -1,16 +1,18 @@
-### Hi there 👋
+## 👋 Hey there!
 
-<!--
-**nik-lmao/nik-lmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡️ **I am Nik (he/him)** - I'm a 14 years old developer from Germany and I started my coding journey in 2022. Back then I started with learning python for developing discord bot applications but soon continued with learning HTML/CSS, Javascript and Lua.
 
-Here are some ideas to get you started:
+### 💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+[![Skills](https://skillicons.dev/icons?i=py,html,css,js,nodejs,lua)](https://skillicons.dev)
+
+
+
+
+
+## ✉️ Contact
+
+* You can contact me on [Discord](https://discord.com/users/969253860508061737)
