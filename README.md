@@ -4,12 +4,11 @@
 
 ### 💻 Skills
 
-
-
-
 [![Skills](https://skillicons.dev/icons?i=py,html,css,js,nodejs,lua)](https://skillicons.dev)
 
+### 💥 I use...
 
+[![Technologies](https://skillicons.dev/icons?i=vscode,discord,github,raspberrypi,replit,pr,instagram)](https://skillicons.dev)
 
 
 
