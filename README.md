@@ -9,7 +9,7 @@
 
 ### 💥 I use...
 
-[![Technologies](https://skillicons.dev/icons?i=vscode,idea,discord,github,raspberrypi,replit,pr,instagram)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=vscode,idea,github,raspberrypi,replit,discord)](https://skillicons.dev)
 
 <br>
 <br>
