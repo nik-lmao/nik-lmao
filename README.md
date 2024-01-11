@@ -1,7 +1,7 @@
 <div align="center">
 <h1>👋 Hey there!</h1>
 
-⚡️ **I am Nik (he/him)** - I'm a 14 years old developer from Germany and I started my coding journey in 2022. Back then I started with learning python for developing discord bot applications but soon continued with learning HTML/CSS, Javascript and Lua.
+⚡️ **I am Nik (he/him)** - I'm a 14 years old developer from Germany. I actually have no idea when I started coding. My first real project was a game on scratch in 2020. I was 10 years back then. I eventually started learning python for coding discord bots with discord.py and continued with a little bit of Lua (for Roblox development), HTML/CSS and Javascript.
 
 ### 💻 Skills
 
