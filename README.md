@@ -5,7 +5,7 @@
 
 ### 💻 Skills
 
-[![Skills](https://skillicons.dev/icons?i=py,html,css,js,nodejs,react,tailwind,lua)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=py,html,css,js,nodejs,react,next,tailwind)](https://skillicons.dev)
 
 ### 💥 I use...
 
