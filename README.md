@@ -19,5 +19,5 @@
 
 ## ✉️ Contact
 
-You can contact me on [Discord](https://discord.com/users/969253860508061737)
+You can contact me via [Discord](https://discord.com/users/969253860508061737)
 </div>
