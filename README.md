@@ -16,8 +16,4 @@
 <br>
 
 <img src="https://lanyard.cnrad.dev/api/969253860508061737?amp;borderRadius=25px" alt=""></img>
-
-## ✉️ Contact
-
-You can contact me via [Discord](https://discord.com/users/969253860508061737)
 </div>
