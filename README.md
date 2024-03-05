@@ -15,7 +15,7 @@
 <br>
 <br>
 
-### 🔗 | Check out my [website](https://nik-dev.eu) by the way!
+### Check out my [website](https://nik-dev.eu) by the way!
 
 <br>
 <br>
